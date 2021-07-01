@@ -1,0 +1,76 @@
+html,body {
+
+width: 100%;
+height:100%;
+padding: 0,
+margin: 0;
+
+
+}
+
+.full {
+	width: 100%;
+	height:100%;
+	background: url('img/background.jpeg') no-repeat 50% 50%;
+	background-size: cover;
+	display: table;
+	margin: auto;
+	top: 0;
+}
+
+.full-inner {
+	width: 100%;
+	vertical-align: middle;
+	display: table-cell;
+}
+
+.content {
+	max-width: 700px;
+	margin: auto;
+	text-align: center;
+}
+.content h1 {
+	font-family: font-family: 'Spartan', sans-serif;
+	font-size: 500%;
+	color: #fff;
+	text-shadow: 0 0 500px black;
+
+}
+
+.content a {
+	/**border-radius: 15px;**/
+	text-decoration:none; 
+	color: black;
+	font-family: 'century gotic',sans-serif;
+	//*font-weight: 3px solid;**/
+	/**padding: 7px 13px;**//
+
+}
+
+.content a:hover {
+	color: #2196f3;
+}
+
+
+
+h1  {
+	font-family: font-family: 'Spartan', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

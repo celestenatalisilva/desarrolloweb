@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: url(img/img/background2.jepg);
+}
+
+footer {
+	background-color: black;
+	color: white;
+}
